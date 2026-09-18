@@ -1,1 +1,20 @@
-
+ton of stuff = beaucoup de choses
+Databricks = Databricks
+courses = cours
+depth = profondeur
+hope = espoir
+spent = dépensé
+worth = valeur
+those = ceux-là
+caught = attrapé
+guard = garde
+thought = pensée
+behavioral = comportemental
+fairly = assez
+query = requête
+charts = graphiques
+higher up = plus haut
+scraping = extraction
+farther back = plus loin derrière
+pack a big punch = avoir beaucoup d’impact
+quite tough = assez difficile
